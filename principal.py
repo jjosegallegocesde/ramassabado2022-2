@@ -1,1 +1,2 @@
-print("hola soy JUAN GALLEGO EL COMMITTER")
+print("hola soy Mauricio Palacios Benta")
+print("hola soy Mauricio Desarrollador jr.")
